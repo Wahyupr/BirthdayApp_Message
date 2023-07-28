@@ -21,12 +21,12 @@
     DB_NAME = birthday_app
     DB_HOST = 127.0.0.1
     DB_PORT = 5432
-    REDIS_HOST = 172.0.0.1
-    CRON_BACKGROUND_QUEUE_MINUTES=30
-    CRON_SEND_EMAIL_HOUR=09
-    CRON_SEND_EMAIL_MINUTE=00
 	```
-	 
+3. run  
+	```bash
+	npm start
+	```
+	
 ## API Endpoint
 
  1. Create Use 
